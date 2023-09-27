@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/LeakIX/ip4scout"
 	"github.com/alecthomas/kong"
+	"github.com/sec32/ip4scout"
 )
 
 var App struct {
